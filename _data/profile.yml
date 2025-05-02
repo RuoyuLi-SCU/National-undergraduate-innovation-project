@@ -1,0 +1,75 @@
+primary_name: "Zijun Guan"
+secondary_name: ""
+navbar_name: "Zijun Guan"
+
+positions:
+- logo: /assets/images/badges/SCU.png  # Logo is optional
+  name: Supervisor of Sichuan University Innovation Program
+- logo: /assets/images/badges/OXF.png  # Logo is optional
+  name: Visiting Scholar at Oxford University
+# - name: Position 2 without logo
+
+
+email: "guanzijun6@gmail.com"
+# cv_link: link-to-your-cv-file
+gscholar: dKhJi2AAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: RuoyuLi-SCU
+# twitter: your_twitter_id  # Do not include the '@' symbol
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+# linkedin: your-linked-in-id
+# orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am Zijun Guan from West China School of Medicine, Sichuan University. I am working with Jin Longtang, a teacher from the School of Computer Science, to guide Ruoyu Li's national innovation program. My research interests include: the application of artificial intelligence in the field of health care, cognitive science and neural networks, neuroelectroencephalography, etc.
+  </p>
+  <p>
+    During my academic career, I have participated in many projects and accumulated rich practical experience. I am keen to explore new technologies and share my research results in academic conferences and journals. I look forward to communicating and collaborating with researchers from different backgrounds to jointly promote academic progress.
+  </p>
+
+portrait_url: /assets/images/badges/nuojiang.png
+portrait_caption: >-
+  Photo with Professor Erwin Neher, Nobel Prize winner in Physiology or Medicine (July 2024 at Sichuan University).
+
+education:
+- name: Sichuan University
+  logo: /assets/images/badges/SCU.png
+  position: >- 
+    School of Computer Science <br/>
+    undergraduate Student
+  date: Sep. 2022 - Jun. 2026
+- name: Oxford University
+  logo: /assets/images/badges/OXF.png
+  position: >- 
+    Oriel College <br/>
+    Summer exchange student
+  date: Jul. 2023 - Aug. 2023
+
+experience:
+- name: Visual Computing Lab, Sichuan University
+  logo: /assets/images/badges/VIS.png
+  position: Intern in the field of computer vision
+  date: Sep. 2023 - Jun. 2025
+- name: Baidu
+  logo: /assets/images/badges/BAIDU.png
+  position: Member of the Talent Cultivation Elite Class
+  date: Mar. 2024 - Dec. 2024
+
+awards:
+- name: Sichuan University Zili-Zhidong Comprehensive Scholarship
+  date: 2023
+- name: Outstanding Student of Sichuan University 
+  date: 2023
+- name: Outstanding CYLC Leader of Sichuan University
+  date: 2023
+- name: Sichuan University Comprehensive 3rd Prize Scholarship
+  date: 2023
+- name: Outstanding Student Leader of Sichuan University
+  date: 2024
+- name: Sichuan University Comprehensive 3rd Prize Scholarship
+  date: 2024
+- name: 2024 Sichuan Province Comprehensive Quality A-level Certificate
+  date: 2024
